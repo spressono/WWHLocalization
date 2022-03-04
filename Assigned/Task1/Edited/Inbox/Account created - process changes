@@ -6,7 +6,7 @@ DATE:	TODAY
 A new employee account has been created!
 
 Attention:
-Due to numerous reports of unauthorized use and access of company systems, we've decided to make the rules for new employees more restrictive. Per a new company policy, access to the systems won't be granted for new employees until their account is activated by their manager.
+Due to numerous reports of unauthorized use and access to company systems, we've decided to make the rules for new employees more restrictive. Per a new company policy, access to the systems won't be granted for new employees until their account is activated by their manager.
 
 The activation process is simple, you must run the "manage_user" tool that is located on your system. You can also find a manual that includes the proper syntax for use with the manage_user. Lastly, you can access your local system through the "NETWORK" tab.
 
