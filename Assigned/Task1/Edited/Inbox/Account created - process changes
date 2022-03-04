@@ -1,16 +1,16 @@
 Account created - process changes
 FROM:	SYSTEM MESSAGE
 TO:	FRANK POULSEN
-DATE:	NOW
+DATE:	TODAY
 
-New employee account has been created !
+A new employee account has been created!
 
-Attention!
-Due to several repeated cases of abuse of the rights in the company system, we decided to make the rules for newcomers more restrictive. According to the new company process, access to the system won't be granted to newcomers as long as their accounts won't be activated.
+Attention:
+Due to numerous reports of unauthorized use and access of company systems, we've decided to make the rules for new employees more restrictive. Per a new company policy, access to the systems won't be granted for new employees until their account is activated by their manager.
 
-To account activation as a manager, run the manage_user tool. You'll find the tool and also a manual on how to use it on your computer through the NETWORK menu.
+The activation process is simple, you must run the "manage_user" tool that is located on your system. You can also find a manual that includes the proper syntax for use with the manage_user. Lastly, you can access your local system through the "NETWORK" tab.
 
-In case of any problems or suspicion, please, contact the Security department to resolve this issue. Unactivated accounts will be after the waiting time has elapsed deleted.
+If you encounter any problems or suspect any unauthorized use of company systems, please, contact the Security Department. Any problems will be addressed in the order they are received. Also, please note that all inactive accounts will be deleted after some time.
 
 QuanTech Ltd.
 
